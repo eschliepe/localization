@@ -31,7 +31,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082929680</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="Apply Selected Labels to Control.vi" Type="VI" URL="../Apply Selected Labels to Control.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;K!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%B!=!!?!!!L%ERP9W&amp;M;8JB&gt;'FP&lt;CZM&gt;GRJ9B:898:F:G^S&lt;3"(=G&amp;Q;#ZM&gt;G.M98.T!"*898:F:G^S&lt;3"(=G&amp;Q;#"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!(U!$!"F"&lt;(2F=GZB&gt;'5A6'6Y&gt;#"4:7RF9X1A+$!J!%:!=!!?!!!L%ERP9W&amp;M;8JB&gt;'FP&lt;CZM&gt;GRJ9B:898:F:G^S&lt;3"(=G&amp;Q;#ZM&gt;G.M98.T!"&amp;898:F:G^S&lt;3"(=G&amp;Q;#"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!=!#!-!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!)!!!!EA!!!!!"!!E!!!!!</Property>

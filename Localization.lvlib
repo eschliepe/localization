@@ -74,7 +74,7 @@
 		<Item Name="Sort Parent Infor for Children.vi" Type="VI" URL="../Utilities/Sort Parent Infor for Children.vi"/>
 		<Item Name="Sort Tab Parent Info for Children.vi" Type="VI" URL="../Utilities/Sort Tab Parent Info for Children.vi"/>
 	</Item>
-	<Item Name="Add Caption to All Controls.vi" Type="VI" URL="../Add Caption to All Controls.vi"/>
+	<Item Name="Localization - Add Caption to All Controls.vi" Type="VI" URL="../Localization - Add Caption to All Controls.vi"/>
 	<Item Name="Localization - Analyze and Write.vi" Type="VI" URL="../Localization - Analyze and Write.vi"/>
 	<Item Name="Localization - Apply.vi" Type="VI" URL="../Localization - Apply.vi"/>
 	<Item Name="Localization - Read and Parse File.vi" Type="VI" URL="../Localization - Read and Parse File.vi"/>
